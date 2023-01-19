@@ -1,0 +1,25 @@
+
+Name,Location,Elev,Lati,Long,
+Alligator Lake,Yukon,2217,60.38,-135.36
+Atlin Volcanic Field,British Columbia,1880,59.70,-133.36
+Baldface Mountain,British Columbia,1798,52.76,-124.53
+Bridge River Cones,British Columbia,2500,50.85,-123.40
+Cayley Volcanic Field,British Columbia,2375,50.12,-123.29
+Crow Lagoon,British Columbia,335,54.70,-130.23
+Dark Mountain,British Columbia,1972,59.02,-129.70
+Edziza,British Columbia,2786,57.70,-130.63
+Fort Selkirk,Yukon,1239,62.93,-137.38
+Garibaldi,British Columbia,2678,49.85,-123.00
+Garibaldi Lake,British Columbia,2316,49.93,-123.02
+Heart Peaks,British Columbia,2012,58.59,-131.96
+Hoodoo Mountain,British Columbia,1850,56.77,-131.29
+Iskut-Unuk River Cones,British Columbia,1880,56.58,-130.54
+Level Mountain,British Columbia,2190,58.42,-131.32
+Meager,British Columbia,2680,50.90,-123.84
+Nazko,British Columbia,1230,52.92,-123.73
+Satah, British Columbia,192,52.47,-124.68
+Silverthrone,British Columbia,3160,51.53,-126.11
+Spectrum Range,British Columbia,2430,57.72,-130.69
+Tseax River Cone,British Columbia,600,55.11,-128.89
+Tuya Volcanic Field,British Columbia,2123,59.21,-130.94
+Wells Gray-Clearwater,British Columbia,2015,52.33,-120.57

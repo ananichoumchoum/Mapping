@@ -1,0 +1,48 @@
+Name,Location,Year,Area,Lat,Lon
+Akami-Uapishkᵁ-KakKasuak-Mealy Mountains National Park Reserve,Newfoundland & Labrador,2015,10700,53.57,-58.34
+Aulavik National Park,Northwest Territories,1992,12200,73.74,-119.59
+Auyuittuq National Park,Nunavut,2001,19707,67.48,-66.05
+Banff National Park,Alberta,1885,6641,51.49,-115.92
+Bruce Peninsula National Park,Ontario,1987,125,45.22,-81.52
+Cape Breton Highlands National Park, Nova Scotia,1936,948,46.64,-60.40
+Elk Island National Park,Alberta,1913,194,53.60,-112.86
+Forillon National Park,Quebec,1970,240, 48.81,-64.27
+Fundy National Park,New Brunswick,1948,206,45.61,-65.03
+Georgian Bay Islands National Park,Ontario,1930,14,44.87,-79.86
+Glacier National Park,British Columbia,1886,1349,51.81,-117.62
+Grasslands National Park,Saskatchewan,1981,730,49.12,-107.54
+Gros Morne National Park,Newfoundland & Labrador,1973,1804,49.65,-57.75
+Gulf Islands National Park Reserve, British Columbia,2003,37,48.78,-123.16
+Gwaii Haanas National Park Reserve,British Columbia,1988,1474,52.46,-131.55
+Ivvavik National Park,Yukon,1964,9750,69.09,-139.83
+Jasper National Park,Alberta,1907,11228,52.89,-117.95
+Kejimkujik National Park and National Historic Site,Nova Scotia,1967,404,44.43, -65.21
+Kluane National Park And Reserve,Yukon,1972,22013,60.75,-139.50
+Kootenay National Park,British Columbia,1920,1406,50.97,-115.95
+Kouchibouguac National Park,New Brunswick,1969,239,46.81,-64.96
+La Mauricie National Park,Quebec,1970,536,46.73,-72.76
+Mingan Archipelago National Park Reserve,Quebec,1984,151,50.22,-63.62
+Mount Revelstoke National Park,British Columbia,1914,263,51.09,-118.04
+Nááts’įhch’oh National Park Reserve,Northwest Territories,2014,4850,62.67, -128.54
+Nahanni National Park Reserve,Northwest Territories,1972,30050,62.67,-128.54
+Pacific Rim National Park Reserve,British Columbia,1970,510,48.79,-125.15
+Point Pelee National Park,Ontario,1918,15,41.96,-82.51
+Prince Albert National Park,Saskatchewan,1927,3875,53.94,-106.06
+Prince Edward Island National Park, Prince Edward Island,1937,27,46.42,-63.17
+Pukaskwa National Park,Ontario,1971,1878,48.59,-86.29
+Qausuittuq National Park,Nunavut,2015,11008,76.02,-101.03
+Quttinirpaaq National Park,Nunavut,2015,37775,81.46,-72.10
+Riding Mountain National Park,Manitoba,1929,2968,50.65,-99.97
+Rouge National Urban Park,Ontario,2015,79,43.81,-79.17
+Sable Island National Park Reserve,Nova Scotia,2013,30,43.93,-59.90
+Sirmilik National Park,Nunavut,2001,22200,73.07,-79.78
+Terra Nova National Park,Newfoundland & Labrador,1957,399,48.52,-53.96
+Thousand Islands National Park,Ontario,1904,24,44.45,-75.86
+Torngat Mountains National Park,Newfoundland & Labrador,2005,9700,59.22,-63.99
+Tuktut Nogait National Park,Northwest Territories,1998,18181,68.81,-121.74
+Ukkusiksalik National Park,Nunavut,2003,20880,68.11,-89.50
+Vuntut National Park,Yukon,1993,4345,68.38,-139.85
+Wapusk National Park,Manitoba,1996,11475,57.79,-93.22
+Waterton Lakes National Park,British Columbia,1895,505,49.08,-113.91
+Wood Buffalo National Park,Alberta/Northwest Territories,1922,44972,59.43,-112.87
+Yoho National Park,British Columbia,1886,1313,51.46,-116.58
